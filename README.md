@@ -12,11 +12,7 @@
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3 (Flexbox & Grid)**  
-- Google Fonts (Raleway & Roboto)  
-
-## 📸 Preview
-![Portfolio Preview](images/Screenshot-2025-09-28-173851.png)  
-*(Replace with a proper screenshot of your homepage if you like)*  
+- Google Fonts (Raleway & Roboto)    
 
 ## 📂 Projects Highlighted
 - **e-Shelf** – Online library app with PHP/MySQL backend  
@@ -25,7 +21,7 @@
 - **Login Page UI** – Clean and modern responsive login form  
 
 ## 🌐 Live Demo
-👉 [View Portfolio](https://daveak17.github.io)  
+👉 [View Portfolio](https://daveak17.github.io/WedDev-Portofolio/)  
 *(update this link once you deploy with GitHub Pages)*  
 
 ## 📬 Contact
