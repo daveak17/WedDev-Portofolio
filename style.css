@@ -449,9 +449,14 @@ footer{
     padding: 0.8rem 1.2rem; /* smaller buttons */
   }
 
+    .con-title h1{
+    font-size: 2.9rem;
+  }
+
   .contact-btn img {
     width: 80px;
     height: 40px;
   }
 }
+
 
