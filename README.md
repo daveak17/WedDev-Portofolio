@@ -22,7 +22,6 @@
 
 ## 🌐 Live Demo
 👉 [View Portfolio](https://daveak17.github.io/WedDev-Portofolio/)  
-*(update this link once you deploy with GitHub Pages)*  
 
 ## 📬 Contact
 - [LinkedIn](https://www.linkedin.com/in/david-akoda-1016442b6/)  
